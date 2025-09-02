@@ -1,4 +1,4 @@
-# Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
+# ChatBot
 
 # How to run?
 ### STEP 01- Create a conda environment after opening the repository
